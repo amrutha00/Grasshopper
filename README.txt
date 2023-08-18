@@ -67,7 +67,7 @@ Opportunities Siezed:
 1. Our screenshot algorithm has been tested for speed and accuracy. It certainly is one of
 the fastest.
 
-2. Our openCV border detection and greenspcae detection is also of great accuracy that
+2. Our openCV border detection and greenspace detection is also of great accuracy that
 has been tuned to improve performance over multiple attempts. The enitre execution
 is completed in under 20 seconds for 198 wards.
 
